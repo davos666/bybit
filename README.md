@@ -13,6 +13,7 @@ voer nu het volgende command uit npm walet.js ADA  //of een andere coin in je wa
 je zou dan het volgende moeten zien 
 
 coin is CAKE
+
 {
   coin: 'CAKE',
   equity: '',
