@@ -15,7 +15,7 @@ const client = new RestClientV5({
 
 client
   .getWalletBalance({
-    accountType: 'SPOT',
+    accountType: 'UNIFIED',
     coin: args[0], 
   })
   .then((response) => {
